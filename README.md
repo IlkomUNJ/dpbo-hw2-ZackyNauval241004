@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SCVt0OYF)
-Name: ................
+Name: M Zacky Nauval
 
-NIM : ................
+NIM : 1313624068
 
 # Instruction
 1. Fill in your details
@@ -15,13 +15,13 @@ NIM : ................
 2. 
 
 # Collaborators (The person you learned from)
-1. ..........
+1. Alone
 
 # Students (the person you taught to complete the assignments)
 1. ...........
 
 # AI Assistance
-AI Tools: .............
+AI Tools: Gemini
 
 Paid AI Plugin (state none, if not subscribed): .............
 
